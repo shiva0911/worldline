@@ -1,2 +1,6 @@
 hellow jii..
+<<<<<<< HEAD
 now prakash is editing
+=======
+kaise ho
+>>>>>>> origin/master
